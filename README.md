@@ -24,7 +24,8 @@
 
 ## 📫 Contact
 - 📧 Email: onlyravi4321@gmail.com
-- 
+- 🔗 LinkedIn: https://www.linkedin.com/in/ravi-singh-3a0157397
+  
 ---
 
 > “Great logic starts with small programs — one `printf` at a time.” 😄  
