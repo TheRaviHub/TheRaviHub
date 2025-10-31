@@ -33,4 +33,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRaviHub&layout=compact&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TheRaviHub&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TheRaviHub&theme=dark)](https://git.io/streak-stats)
