@@ -24,7 +24,7 @@
 
 ## 📫 Contact
 - 📧 Email: onlyravi4321@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/ravi-singh-3a0157397
+- 🔗 LinkedIn: https://www.linkedin.com/in/ravi-kumar-singh-3a0157397
   
 ---
 
