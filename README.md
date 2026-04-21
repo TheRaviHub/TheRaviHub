@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Ravi%20Kumar%20Singh&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20ML%20Student%20%7C%20Builder%20%7C%20Creative&descAlignY=58&descSize=14" width="100%"/>
+# 👋 Hey, I'm Ravi Kumar Singh
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer+🚀;ML+Student+%40+SRM+University+AP;Building+Property+Price+Prediction;Integrating+AI+in+Daily+Workflow;Video+Editor+—+DaVinci+Resolve+🎬;Learning+by+Building%2C+Always+💡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer+%F0%9F%9A%80;ML+Student+%40+SRM+University+AP;Building+Property+Price+Prediction;Integrating+AI+in+Daily+Workflow;Video+Editor+%E2%80%94+DaVinci+Resolve+%F0%9F%8E%AC;Learning+by+Building%2C+Always+%F0%9F%92%A1)](https://git.io/typing-svg)
 
 <br/>
 
@@ -73,7 +73,7 @@ Integrating AI tools into how I actually work — not just studying it.
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark)](https://skillicons.dev)
 
 **ML & AI**
 
@@ -85,11 +85,11 @@ Integrating AI tools into how I actually work — not just studying it.
 
 **Web & Cloud**
 
-[![My Skills](https://skillicons.dev/icons?i=html,firebase,vercel,netlify,cloudflare&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,firebase,vercel,netlify,cloudflare&theme=dark)](https://skillicons.dev)
 
 **Tools & Creative**
 
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,notion&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=git,vscode,notion&theme=dark)](https://skillicons.dev)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinci-resolve&logoColor=white)
 
 </div>
@@ -100,14 +100,21 @@ Integrating AI tools into how I actually work — not just studying it.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheRaviHub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRaviHub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheRaviHub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRaviHub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&langs_count=6"/>
+
+<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=TheRaviHub&theme=tokyonight&hide_border=true&background=0D1117&stroke=00e5ff&ring=00e5ff&fire=ff6b35&currStreakLabel=00e5ff)](https://git.io/streak-stats)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheRaviHub&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=TheRaviHub&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheRaviHub&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheRaviHub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -116,21 +123,28 @@ Integrating AI tools into how I actually work — not just studying it.
 ## 📈 Leveling Up
 
 ```
-Python              ████████████████░░░░   70%
-Machine Learning    ██████████████░░░░░░   55%
-AI Engineering      ██████████░░░░░░░░░░   40%
-DSA                 █████████░░░░░░░░░░░   35%
-System Design       ██████░░░░░░░░░░░░░░   25%
-Video Editing 🎬    ████████████████████   80%
+Python              ████████████████░░░░   70%  — comfortable
+Machine Learning    ██████████████░░░░░░   55%  — actively building
+AI Engineering      ██████████░░░░░░░░░░   40%  — learning by doing
+DSA                 █████████░░░░░░░░░░░   35%  — in progress
+System Design       ██████░░░░░░░░░░░░░░   25%  — just started
+Video Editing 🎬    ████████████████████   80%  — DaVinci Resolve
 ```
 
 ---
 
 ## 🎬 Beyond the Code
 
-> I edit videos in **DaVinci Resolve** — color grading, cuts, storytelling.
-> Turns out building an ML model and editing a timeline aren't that different.
-> Both are about making something *messy* into something *clean.*
+```
+Not everything I build runs on a terminal.
+
+I edit videos in DaVinci Resolve — color grading, cuts, storytelling.
+Turns out building an ML model and editing a timeline aren't that different.
+Both are about making something messy into something clean.
+
+Tools  →  DaVinci Resolve  |  Premiere (basics)
+Style  →  Cinematic cuts, color grading, reels
+```
 
 ---
 
@@ -139,18 +153,17 @@ Video Editing 🎬    ███████████████████�
 <div align="center">
 
 I'm a **2nd year student** actively building, learning, and connecting.
-If you're in ML/AI, building something open-source, or just want to talk tech — **reach out. always open.**
+If you're in ML/AI, working on something cool, or just want to talk tech —
+**reach out. always open.**
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/onlyravi4321@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onlyravi4321@gmail.com)
+[![Email](https://img.shields.io/badge/onlyravi4321%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onlyravi4321@gmail.com)
 
-</div>
+<br/>
 
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%"/>
 
 *Building one commit at a time — from Ranchi to the world 🌍*
 
