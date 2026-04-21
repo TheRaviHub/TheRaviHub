@@ -120,19 +120,6 @@ Integrating AI tools into how I actually work — not just studying it.
 
 ---
 
-## 📈 Leveling Up
-
-```
-Python              ████████████████░░░░   70%  — comfortable
-Machine Learning    ██████████████░░░░░░   55%  — actively building
-AI Engineering      ██████████░░░░░░░░░░   40%  — learning by doing
-DSA                 █████████░░░░░░░░░░░   35%  — in progress
-System Design       ██████░░░░░░░░░░░░░░   25%  — just started
-Video Editing 🎬    ████████████████████   80%  — DaVinci Resolve
-```
-
----
-
 ## 🎬 Beyond the Code
 
 ```
@@ -159,12 +146,14 @@ If you're in ML/AI, working on something cool, or just want to talk tech —
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/onlyravi4321%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onlyravi4321@gmail.com)
+[![Email](https://img.shields.io/badge/onlyravi4321%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onlyravi4321@gmail.com)(#)
+[![Instagram](https://www.instagram.com/ravihere_/)]
+
 
 <br/>
 
 ---
 
-*Building one commit at a time — from Ranchi to the world 🌍*
+*Building one commit at a time — from Scratch to the world 🌍*
 
 </div>
