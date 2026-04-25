@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Ravi Kumar Singh
+#  Hey, I'm Ravi Kumar Singh
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer+%F0%9F%9A%80;ML+Student+%40+SRM+University+AP;Building+Property+Price+Prediction;Integrating+AI+in+Daily+Workflow;Video+Editor+%E2%80%94+DaVinci+Resolve+%F0%9F%8E%AC;Learning+by+Building%2C+Always+%F0%9F%92%A1)](https://git.io/typing-svg)
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```python
 ravi = {
@@ -25,10 +25,10 @@ ravi = {
     "location"     : "Ranchi, Jharkhand 🇮🇳",
     "university"   : "SRM University, AP — 2nd Year CSE",
     "role"         : "@ Hush Networks",
-    "goal"         : "Become an AI Engineer 🤖",
+    "goal"         : "Become an AI Engineer",
     "building"     : "Property Price Prediction Model",
     "ai_in_life"   : "Using AI tools in daily workflow",
-    "creative"     : "Video Editor — DaVinci Resolve 🎬",
+    "creative"     : "Video Editor — DaVinci Resolve",
     "learning"     : ["ML", "DSA", "System Design", "AI Workflows"],
     "fun_fact"     : "I debug code and cut frames — same energy",
 }
@@ -36,13 +36,13 @@ ravi = {
 
 ---
 
-## 🚀 What I'm Currently Building
+## What I'm Currently Building
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏠 Property Price Prediction
+### Property Price Prediction
 My first real end-to-end ML project — from raw messy data to a working model.
 - Feature engineering & data cleaning
 - Regression models & hyperparameter tuning
@@ -67,7 +67,7 @@ Integrating AI tools into how I actually work — not just studying it.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -96,7 +96,7 @@ Integrating AI tools into how I actually work — not just studying it.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -135,7 +135,7 @@ Style  →  Cinematic cuts, color grading, reels
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -154,6 +154,6 @@ If you're in ML/AI, working on something cool, or just want to talk tech —
 
 ---
 
-*Building one commit at a time — from Scratch to the world 🌍*
+*Building one commit at a time — from Scratch to the world*
 
 </div>
