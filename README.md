@@ -24,7 +24,7 @@ ravi = {
     "name"         : "Ravi Kumar Singh",
     "location"     : "Ranchi, Jharkhand 🇮🇳",
     "university"   : "SRM University, AP — 2nd Year CSE",
-    "role"         : "@ Hush Networks",
+    "role"         : "Social Content Creator - @Hush Networks",
     "goal"         : "Become an AI Engineer",
     "building"     : "Property Price Prediction Model",
     "ai_in_life"   : "Using AI tools in daily workflow",
