@@ -144,7 +144,6 @@ If you're in ML/AI, working on something cool, or just want to talk tech —
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/onlyravi4321%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onlyravi4321@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-ravihere__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ravihere_/)
 
 
 <br/>
