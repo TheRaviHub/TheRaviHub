@@ -26,7 +26,6 @@ ravi = {
     "ai_in_life"   : "Using AI tools in daily workflow",
     "creative"     : "Video Editor — DaVinci Resolve",
     "learning"     : ["ML", "DSA", "System Design", "AI Workflows"],
-    "fun_fact"     : "I debug code and cut frames — same energy",
 }
 ```
 
